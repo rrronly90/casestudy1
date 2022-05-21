@@ -13,10 +13,10 @@ jobs:
     run: env | sort
 		
  job2:
-  name :Second Job
+  name: Second Job
   runs-on :windows-latest
   steps:
   - name:step three
     uses:actions/checkout@v2
   - name:step four
-   run:"Get-ChildItem Env: | Sort-Object Name"
+    run:"Get-ChildItem Env: | Sort-Object Name"
