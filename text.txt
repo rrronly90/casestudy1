@@ -4,3 +4,4 @@ Adding yet another line
 And another line
 what if you didnt knew vi
 cntrl+F changes to single char '/'
+cntrl+r replaced by :s :) yes and syntax is :s/foo/bar/(g) for global
