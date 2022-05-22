@@ -3,3 +3,4 @@ Adding another line.
 Adding yet another line
 And another line
 what if you didnt knew vi
+cntrl+F changes to single char '/'
